@@ -1,4 +1,3 @@
-import java.lang.management.MemoryType;
 
 public class CongNhan {
     private int maCN , mSoSP;

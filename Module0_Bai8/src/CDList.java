@@ -73,7 +73,7 @@ public class CDList  extends CD{
                 System.out.println();
             }
         }
-    return null;
+    return "";
 
     }
 }

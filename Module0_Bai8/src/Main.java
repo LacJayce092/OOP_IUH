@@ -7,7 +7,7 @@ public class Main {
 
         //cl1.addCDList();
         cl1.addCDList(cd1);
-        cl1.addCDList();
+       // cl1.addCDList();
         cl1.addCDList(cd2);
 
         System.out.println(String.format("%-15s %-15s %-25s %-15s " ,"MaCD" , "TuaCD" , "So luong bai hat" ,"Gia thanh"));
